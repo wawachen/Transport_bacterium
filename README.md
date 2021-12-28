@@ -3,21 +3,28 @@
 
 ## Four different loads to be transported
 <p float="left">
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/circle.png" width="300" />
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/square.png" width="300" /> 
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/peanut.png" width="300" />
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/circle.png" width="200" />
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/square.png" width="200" /> 
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/peanut.png" width="200" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/circle1.png" width="300" />
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/square1.png" width="300" /> 
-  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/peanut1.png" width="300" />
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/circle1.png" width="200" />
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/square1.png" width="200" /> 
+  <img src="https://github.com/wawachen/Transport_bacterium/blob/master/bin/peanut1.png" width="200" />
 </p>
 
 Our particles has the perception of load height distribution, and it can push the load by generating the force along the load centre.
 
 ## Results
-[![Watch the video]](https://youtu.be/5FX2R2Gqrrg)
+<p float="left">
+<img src="https://github.com/wawachen/Transport_bacterium/blob/master/ezgif.com-gif-maker%20(1).gif" width="250" height="250"/>
+<img src="https://github.com/wawachen/Transport_bacterium/blob/master/ezgif.com-gif-maker%20(2).gif" width="250" height="250"/>
+</p>
+<p float="left">
+<img src="https://github.com/wawachen/Transport_bacterium/blob/master/ezgif.com-gif-maker%20(3).gif" width="250" height="250"/>
+<img src="https://github.com/wawachen/Transport_bacterium/blob/master/ezgif.com-gif-maker.gif" width="250" height="250"/>
+</p>
 
 ## How to use it?
 ```
